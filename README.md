@@ -2,6 +2,12 @@
 
 This project analyzes a digital music store database using SQL to answer business-focused questions about customers, sales, genres, artists, and tracks.
 
+## Tech Stack
+
+- **SQL**
+- **PostgreSQL**
+- **psql** and **pg_restore** for database setup and query execution
+
 ## Project Objective
 
 Use SQL queries to extract actionable insights from transactional music store data, such as:
